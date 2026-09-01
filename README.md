@@ -66,23 +66,21 @@ Still a programming newbie, putting in the work every day to level up and become
 
 ### A few things
 
-<br/><br/>
-
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/mtk806181-lab/one-piece-api">
+      <a href="https://github.com/Kelobled/one-piece-api">
         <img width="500" height="300" alt="thumb-1920-1323165" src="https://github.com/user-attachments/assets/ee37ac1c-1338-4ac1-b3e4-3e80ad5eb435" />
       </a>
     </td>
     <td width="50%">
-      <h3>🏴‍☠️ <a href="https://github.com/mtk806181-lab/one-piece-api">API One Piece</a></h3>
+      <h3>🏴‍☠️ <a href="https://github.com/Kelobled/one-piece-api">API One Piece</a></h3>
       <p>API RESTful para la gestión y consulta de personajes, tripulaciones y recompensas del universo de One Piece.</p>
       <p>
         <b>Tech Stack:</b><br/>
         <code>C#</code> <code>.NET 8</code> <code>EF Core</code> <code>SQL Server</code>
       </p>
-      <a href="https://github.com/mtk806181-lab/one-piece-api">
+      <a href="https://github.com/Kelobled/one-piece-api">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
