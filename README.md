@@ -7,6 +7,8 @@
 <p align="center">
   <img width="950" height="350" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
 </p>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f0e15424-9c59-47c8-85c3-0b06783783cb" />
+
 
 ### 🚀 Developer | Of something
 
