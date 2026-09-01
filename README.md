@@ -8,7 +8,7 @@
   <img width="950" height="350" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
 </p>
 
-### 🚀 Developer | Something
+### 🚀 Developer | Of something
 
 Still a programming newbie, putting in the work every day to level up and become a full stack developer down the road.
 
