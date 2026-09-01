@@ -1,6 +1,7 @@
+
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="./gif-git.gif" alt="Kevin Muñoz Banner" width="100%">
+  <img width="1920" height="1080" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
 </p>
 
 # ¡Hola, soy Kevin Muñoz! 👋
