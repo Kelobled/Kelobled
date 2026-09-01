@@ -10,8 +10,11 @@
 </p>
 
 <p display: flex>
-  <img width="20" height="20" alt="image" style="float: rigth;" src="https://github.com/user-attachments/assets/f0e15424-9c59-47c8-85c3-0b06783783cb" /> 
-  <img width="20" height="20" alt="15721" src="https://github.com/user-attachments/assets/a2fe96f8-0b99-441f-af07-25b9878cb0bf" />
+  <img width="50" height="50" alt="image" style="float: rigth;" src="https://github.com/user-attachments/assets/f0e15424-9c59-47c8-85c3-0b06783783cb" /> 
+  <img width="50" height="50" alt="15721" src="https://github.com/user-attachments/assets/a2fe96f8-0b99-441f-af07-25b9878cb0bf" />
+  <img width="50" height="50" alt="2970" src="https://github.com/user-attachments/assets/9f8c1242-29ab-4a53-852f-798d6fbc6fee" />
+  <img width="50" height="50" alt="220069" src="https://github.com/user-attachments/assets/7edbf3b1-d005-4b27-95a8-bba293a6f702" />
+
 </p>
 
 ### 🚀 Developer | Of something
