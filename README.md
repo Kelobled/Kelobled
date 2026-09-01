@@ -1,6 +1,8 @@
 # ¡Hola, soy Kevin Muñoz! 👋
 
-![Banner](https://www.reddit.com/r/gameDevClassifieds/comments/16yufk3/for_hire_pixel_artist_looking_for_work/)
+<p align="center">
+  <img src="./gif git.gif" alt="Kevin Muñoz Banner" width="100%">
+</p>
 
 ### 🚀 Developer | C# & .NET • Node.js • Java • React
 
