@@ -57,4 +57,4 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web, análisis d
 
 ---
 
-*“Primero, resuelve el problema. Luego, escribe el código.” – John Johnson*
+*“Just keep it simple.”*
