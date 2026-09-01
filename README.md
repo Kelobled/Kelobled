@@ -5,7 +5,7 @@
 # ¡Hola, soy Kevin Muñoz! 👋
 
 <p align="center">
-  <img width="500" height="500" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
+  <img width="250" height="800" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
 </p>
 
 ### 🚀 Developer | C# & .NET • Node.js • Java • React
