@@ -1,8 +1,5 @@
 
 
-<!-- BANNER SUPERIOR -->
-
-
 # 👋👋👋¡Hi, i'm Kevin Muñoz, nice to meet you! 👋👋👋
 
 <p align="center">
@@ -17,17 +14,17 @@
 
 </p>
 
-### 🚀 Developer | Of something
+### Developer | Of something
 
 Still a programming newbie, putting in the work every day to level up and become a full stack developer down the road.
 
 ---
 
-<table border="0">
+<table>
   <tr>
     <td valign="top" width="60%">
 
-### ~About me~
+### 👓~About me~👓
 * ➢ **Name:** Kevin Muñoz
 * ➢ **Location:** Colombia
 * ➢ **Tastes:** Anime, videogames, programming, fried chicken
@@ -36,13 +33,14 @@ Still a programming newbie, putting in the work every day to level up and become
 
     </td>
     <td align="center" valign="middle" width="40%">
-      <img width="354" height="564" alt="images" src="https://github.com/user-attachments/assets/33ac2296-6e6d-4942-9371-142887af9707" />
+      <img width="330" height="330" alt="Peter_Griffin" src="https://github.com/user-attachments/assets/1671f071-2472-4d8c-81a7-1fe52d954962" />
+
     </td>
   </tr>
 </table>
 
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologies & Tools
 
 #### **Backend & Lenguajes**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -65,38 +63,7 @@ Still a programming newbie, putting in the work every day to level up and become
 
 ---
 
-### 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **EasyBite QR / SGEG** | Sistema de gestión de eficiencia gastronómica con menú digital QR para auto-pedidos, inventario dinámico y facturación. | C# / ASP.NET, Express.js, MySQL |
-| **E-Commerce Backend API** | API RESTful con arquitectura MVC para control de inventarios, carritos de compra y roles de usuario. | Node.js, Express, MySQL |
-| **One Piece Data API** | Servicio Web API con Entity Framework Core y Swagger para gestión de modelos de datos. | C#, Entity Framework Core |
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Kevin" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" height="175"/>
-</p>
-
----
-
-### 📬 ¡Conectemos!
-
-- 💼 **LinkedIn:** [Kevin Muñoz](https://linkedin.com/in/tu-usuario)
-- 📧 **Correo:** `tuemail@ejemplo.com`
-
----
-
-*“Primero, resuelve el problema. Luego, escribe el código.” – John Johnson*
-
-### 📬 ¡Conectemos!
-
-- 💼 **LinkedIn:** [Kevin Muñoz](https://linkedin.com/in/tu-usuario)
-- 📧 **Correo:** `tuemail@ejemplo.com`
+### A few things
 
 ---
 
