@@ -1,5 +1,7 @@
 # ¡Hola, soy Kevin Muñoz! 👋
 
+![Banner](https://www.reddit.com/r/gameDevClassifieds/comments/16yufk3/for_hire_pixel_artist_looking_for_work/)
+
 ### 🚀 Developer | C# & .NET • Node.js • Java • React
 
 Soy desarrollador de software enfocado en construir **APIs RESTful**, arquitecturas robustas y soluciones eficientes para la gestión de datos. Me apasiona resolver problemas lógicos, optimizar bases de datos relacionales y crear herramientas que mejoren la experiencia del usuario.
