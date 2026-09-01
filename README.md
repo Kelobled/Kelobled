@@ -1,10 +1,12 @@
 
 <!-- BANNER SUPERIOR -->
-<p align="center">
-  <img width="1920" height="1080" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
-</p>
+
 
 # ¡Hola, soy Kevin Muñoz! 👋
+
+<p align="center">
+  <img width="500" height="500" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
+</p>
 
 ### 🚀 Developer | C# & .NET • Node.js • Java • React
 
