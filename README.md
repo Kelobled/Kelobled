@@ -1,8 +1,9 @@
-# ¡Hola, soy Kevin Muñoz! 👋
-
+<!-- BANNER SUPERIOR -->
 <p align="center">
   <img src="./gif git.gif" alt="Kevin Muñoz Banner" width="100%">
 </p>
+
+# ¡Hola, soy Kevin Muñoz! 👋
 
 ### 🚀 Developer | C# & .NET • Node.js • Java • React
 
@@ -39,9 +40,9 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web, análisis d
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| ** EasyBite QR / SGEG** | Sistema de gestión de eficiencia gastronómica con menú digital QR para auto-pedidos, inventario dinámico y facturación. | C# / ASP.NET, Express.js, MySQL |
-| ** E-Commerce Backend API** | API RESTful con arquitectura MVC para control de inventarios, carritos de compra y roles de usuario. | Node.js, Express, MySQL |
-| ** One Piece Data API** | Servicio Web API con Entity Framework Core y Swagger para gestión de modelos de datos. | C#, Entity Framework Core |
+| **EasyBite QR / SGEG** | Sistema de gestión de eficiencia gastronómica con menú digital QR para auto-pedidos, inventario dinámico y facturación. | C# / ASP.NET, Express.js, MySQL |
+| **E-Commerce Backend API** | API RESTful con arquitectura MVC para control de inventarios, carritos de compra y roles de usuario. | Node.js, Express, MySQL |
+| **One Piece Data API** | Servicio Web API con Entity Framework Core y Swagger para gestión de modelos de datos. | C#, Entity Framework Core |
 
 ---
 
@@ -53,6 +54,15 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web, análisis d
 </p>
 
 ---
+
+### 📬 ¡Conectemos!
+
+- 💼 **LinkedIn:** [Kevin Muñoz](https://linkedin.com/in/tu-usuario)
+- 📧 **Correo:** `tuemail@ejemplo.com`
+
+---
+
+*“Primero, resuelve el problema. Luego, escribe el código.” – John Johnson*
 
 ### 📬 ¡Conectemos!
 
