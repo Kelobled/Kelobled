@@ -23,6 +23,25 @@ Still a programming newbie, putting in the work every day to level up and become
 
 ---
 
+<table border="0">
+  <tr>
+    <td valign="top" width="60%">
+
+### ~About me~
+* ➢ **Name:** Kevin Muñoz
+* ➢ **Location:** Colombia
+* ➢ **Tastes:** Anime, videogames, programming, fried chicken
+* ➢ **Gender:** Man
+* ➢ **Hobbies:** Drawing, playing soccer, reading, studying
+
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img width="354" height="564" alt="images" src="https://github.com/user-attachments/assets/33ac2296-6e6d-4942-9371-142887af9707" />
+    </td>
+  </tr>
+</table>
+
+
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Backend & Lenguajes**
