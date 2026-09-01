@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="./gif%20git.gif" alt="Kevin Muñoz Banner" width="100%">
+  <img src="./gif-git.gif" alt="Kevin Muñoz Banner" width="100%">
 </p>
 
 # ¡Hola, soy Kevin Muñoz! 👋
