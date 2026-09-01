@@ -1,4 +1,5 @@
 
+
 <!-- BANNER SUPERIOR -->
 
 
@@ -7,7 +8,7 @@
 <p align="center">
   <img width="950" height="350" alt="gif-git" src="https://github.com/user-attachments/assets/1268e527-8aee-4ace-b4db-866559e18a83" />
 </p>
-<img width="20" height="20" alt="image" style="float: rigth;" src="https://github.com/user-attachments/assets/f0e15424-9c59-47c8-85c3-0b06783783cb" />
+<img width="20" height="20" alt="image" style="float: rigth;" src="https://github.com/user-attachments/assets/f0e15424-9c59-47c8-85c3-0b06783783cb" /> <img width="20" height="20" alt="15721" src="https://github.com/user-attachments/assets/a2fe96f8-0b99-441f-af07-25b9878cb0bf" />
 
 
 ### 🚀 Developer | Of something
