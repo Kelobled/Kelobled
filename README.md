@@ -1,8 +1,4 @@
 
-
-
-
-
   # 👋👋👋¡Hi, i'm Kevin Muñoz, nice to meet you! 👋👋👋
 
 <p align="center">
@@ -20,6 +16,8 @@
   <img width="50" height="50" alt="222024" src="https://github.com/user-attachments/assets/dd515b4d-2f69-4c1e-8014-c5a4878b1db4" />
   <img width="50" height="50" alt="jeffrey-epstein" src="https://github.com/user-attachments/assets/39a8b11d-537e-409e-a5e9-352c91f7dded" />
   <img width="50" height="50" alt="Peanut-Butter-Gif-animado" src="https://github.com/user-attachments/assets/8b9bff93-dcd0-4362-aa9e-5abb3b2f1634" />
+  <img width="50" height="50" alt="94515" src="https://github.com/user-attachments/assets/6efc4936-7c43-47d3-8c76-32df3b914203" />
+
 
 
 </p>
