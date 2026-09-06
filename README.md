@@ -37,7 +37,7 @@ Still a programming newbie, putting in the work every day to level up and become
 * ➢ **Location:** Colombia
 * ➢ **Tastes:** Anime, videogames, programming, fried chicken
 * ➢ **Gender:** Man
-* ➢ **Hobbies:** Drawing, playing soccer, reading, studying
+* ➢ **Hobbies:** Drawing, playing soccer, reading, study
 
     </td>
     <td align="center" valign="middle" width="40%">
