@@ -71,7 +71,7 @@ Still a programming newbie, putting in the work every day to level up and become
 
 ---
 
-### A few things
+### A few things, there is:
 
 <table>
   <tr>
