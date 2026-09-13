@@ -22,12 +22,6 @@
   <img width="50" height="50" alt="220292" src="https://github.com/user-attachments/assets/4943f10e-f5fe-462e-95e7-791555c0dcc9" />
   <img width="50" height="50" alt="222022" src="https://github.com/user-attachments/assets/70be666e-1496-4910-9baf-83ab32e050c5" />
   <img width="50" height="50" alt="219539" src="https://github.com/user-attachments/assets/f83afbe8-00fc-4678-9043-b35966d47408" />
-  <img width="50" height="50" alt="221887" src="https://github.com/user-attachments/assets/1efc4acb-8cba-4933-8c53-24606b28347a" />
-
-
-
-
-
 </p>
 
 ### Developer | Of something
