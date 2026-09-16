@@ -44,6 +44,7 @@ Still a programming newbie, putting in the work every day to level up and become
     </td>
     <td align="center" valign="middle" width="40%">
       <img width="330" height="330" alt="Peter_Griffin" src="https://github.com/user-attachments/assets/1671f071-2472-4d8c-81a7-1fe52d954962" />
+      <p>Consolidacion... porque no tengo nada mejor que hacer.</p>
 
     </td>
   </tr>
