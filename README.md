@@ -27,6 +27,7 @@
 ### Developer | Of something
 
 Still a programming newbie, putting in the work every day to level up and become a full stack developer down the road.
+im a hero too
 
 ---
 
